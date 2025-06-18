@@ -27,9 +27,9 @@ I am working also on cyber security, robotics and AI/ML.
 <br/>  
 
 
-## Rapidfire  
+## Rapidfire
 <table><tr><td valign="top" width="50%">
-
+  
 - 🔭I am currently attending my Bachelors in Information Technology and Software Engineering. 
        
   
@@ -39,14 +39,8 @@ I am working also on cyber security, robotics and AI/ML.
   
 
 - ⚡ I am also a full stack developer.  
-
-
-</td><td valign="top" width="50%">
-
-
-
-</td></tr></table>  
-
+  
+</td></tr></table>
 <br/>  
 
 
