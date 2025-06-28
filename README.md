@@ -1,4 +1,4 @@
-## Hey 👋, I'm MANZI Kennedy!  
+# Hey 👋, I'm MANZI Kennedy!  
   
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=Manzi-Kennedy&&style=flat-square)  
